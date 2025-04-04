@@ -1,0 +1,20 @@
+
+
+             =======================
+                   RESIT TEMPAHAN
+             =======================
+
+               ID Tempahan: BKG1002
+                 Nama Pembeli: b
+            Email Pembeli: b@gmail.com
+           Tarikh Tempahan: 2025-05-31
+             Masa Tempahan: 12:31:53
+          Laluan: Melaka -> Kuala Lumpur
+                 Harga: RM 100.00
+            Kaedah Bayaran: Kad Debit
+               Kerusi Tempahan: 1C
+
+
+             =======================
+                   Terima Kasih!
+             =======================

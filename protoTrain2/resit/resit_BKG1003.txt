@@ -1,0 +1,20 @@
+
+
+             =======================
+                   RESIT TEMPAHAN
+             =======================
+
+               ID Tempahan: BKG1003
+          Nama Pembeli: ali123@gmail.com
+         Email Pembeli: ali123@gmail.com
+           Tarikh Tempahan: 2025-05-31
+             Masa Tempahan: 12:33:02
+          Laluan: Melaka -> Kuala Lumpur
+                 Harga: RM 100.00
+            Kaedah Bayaran: Kad Kredit
+               Kerusi Tempahan: 1A
+
+
+             =======================
+                   Terima Kasih!
+             =======================

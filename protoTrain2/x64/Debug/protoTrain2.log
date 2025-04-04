@@ -1,0 +1,4 @@
+﻿  protoTrain2.cpp
+C:\A\cccode\protoTrain2\protoTrain2\protoTrain2.cpp(1451,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\A\cccode\protoTrain2\protoTrain2\protoTrain2.cpp(1458,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  protoTrain2.vcxproj -> C:\A\cccode\protoTrain2\x64\Debug\protoTrain2.exe

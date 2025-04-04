@@ -1,0 +1,20 @@
+
+
+             =======================
+                   RESIT TEMPAHAN
+             =======================
+
+               ID Tempahan: BKG1001
+                Nama Pembeli: ali
+         Email Pembeli: ali123@gmail.com
+           Tarikh Tempahan: 2025-02-04
+             Masa Tempahan: 17:08:55
+              Laluan: Johor -> Kedah
+                Harga: RM 1051.50
+            Kaedah Bayaran: Kad Kredit
+           Kerusi Tempahan: 1A, 1B, 1C
+
+
+             =======================
+                   Terima Kasih!
+             =======================
