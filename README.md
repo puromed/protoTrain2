@@ -41,7 +41,7 @@
 ## **Installation**
 
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/protoTrain2.git
+   git clone https://github.com/puromed/protoTrain2.git
 
 2. **Open the Project in Visual Studio:**
 
@@ -114,9 +114,7 @@
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## **Acknowledgements**
 
